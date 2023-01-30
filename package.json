@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "wdio-safaridriver-service": "^2.0.0"
+  }
+}
